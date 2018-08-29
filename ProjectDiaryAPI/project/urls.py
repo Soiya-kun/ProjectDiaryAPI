@@ -21,6 +21,5 @@ from diary.urls import router as day_router
 
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
     url(r'^api/', include(day_router.urls)),
 ]
