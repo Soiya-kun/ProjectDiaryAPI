@@ -9,7 +9,7 @@ offsetの数値は投稿された順番の値
 
 
 ◎言語、使用フレームワーク
-Python
-Django
+Python3.7.0
+Django2.1.0
 Django REST Framework
 を用いて作成。
